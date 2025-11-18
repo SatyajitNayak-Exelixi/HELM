@@ -532,13 +532,3 @@ helm list
 ## 16) Closing notes
 
 This guide gave you the conceptual model, installation steps, a stateless example, and a stateful example (Postgres) with templates and values. Use `helm template` and `helm lint` heavily while learning. Helm is powerful — start small and iterate.
-
----
-
-If you want, I can:
-
-* Convert the Postgres example into a full downloadable chart `.tgz` for you to install, or
-* Create a simple `nginx-app` chart repo on your machine and show exact commands, or
-* Walk you through deploying this in a live cluster (step-by-step commands you run).
-
-What would you like next?
